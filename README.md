@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=9BADC4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Matheus+Preto!%3E;" alt="Typing SVG" /></a>
 <p align="center">
-<!--I'm a Software Engineering Bachelor's student at PUCSC, I'm from SC, Brazil!-->
 </p>
 </<br/>
 
@@ -55,10 +54,10 @@
 
 </div>&nbsp;&nbsp;
  
-<p>
+<!-- <p>
   <a href="https://open.spotify.com/user/matheus_pretoo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=soled_by_deku&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-</p>
+</p> -->
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
