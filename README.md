@@ -16,7 +16,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=matheuspretooo&theme=transparent&hide_border=true&border_radius=5" alt="Streak Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheuspretooo&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=matheuspretooo&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -50,7 +50,9 @@
 <div> 
   
 <a href = "mailto:matheuspreto63@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/matheus-preto](https://www.linkedin.com/in/matheus-preto/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/matheus-preto/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> 
 
 </div>&nbsp;&nbsp;
  
